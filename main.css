@@ -1,0 +1,32 @@
+/*
+** EPITECH PROJECT, 2025
+** Web_development
+** File description:
+** main.css
+*/
+
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #0008ff;
+    color: #333;
+}
+
+/* Select by class name (starts with a dot) */
+.btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
