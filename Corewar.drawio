@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="eHr-4HutzEYHQJIVa8Bm">
+    <mxGraphModel dx="1414" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JRQ7bHgj1X0uFwmWk4OI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Arena&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;(6 x 1024)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;bytes&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="210" x="80" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JRQ7bHgj1X0uFwmWk4OI-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;fontSize=24;" value="Champion&amp;nbsp;&lt;div&gt;address&lt;/div&gt;&lt;div&gt;number&lt;/div&gt;&lt;div&gt;(Instructions)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="190" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JRQ7bHgj1X0uFwmWk4OI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;Cycles&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="210" x="350" y="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
